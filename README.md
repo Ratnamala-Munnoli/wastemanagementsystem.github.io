@@ -97,7 +97,7 @@ A well-implemented waste management system ensures environmental protection, eco
 ### 🎯 **Topic:** Waste Management System
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
+- Focus: Algorithmic Problem Solving for Waste generating areas  
 
 ### 📋 **Details:**
 
